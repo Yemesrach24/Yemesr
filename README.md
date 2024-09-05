@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yemesrach Worku.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Addis Ababa institute of technology 
+- 🌱 I graduated from Addis Ababa institute of technology.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me workuyemesrach10@gmail.com
 
